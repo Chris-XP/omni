@@ -1,0 +1,74 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "minecraft:custom/member.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": ["\uA000"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:custom/plus.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": ["\uA001"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:custom/vip.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": ["\uA002"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:custom/ticket.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": ["\uA003"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:custom/time.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": ["\uA004"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:custom/skull.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": ["\uA005"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:custom/swords.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": ["\uA006"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:custom/cash.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": ["\uA007"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:custom/sidebar.png",
+      "ascent": 125,
+      "height": 168,
+      "chars": ["\uA008"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:custom/title.png",
+      "ascent": 286,
+      "height": 480,
+      "chars": ["\uA009"]
+    }
+  ]
+}

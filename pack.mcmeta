@@ -1,0 +1,13 @@
+﻿{
+  "pack": {
+    "pack_format": 75,
+    "min_format": 70,
+    "max_format": 75,
+    "description": [
+      "",
+      {"text": "Omni ", "bold": true, "color": "#DB0307"},{"text": "PvP", "bold": true, "color": "#FFFFFF"},
+      {"text": "\n"},
+      {"text": "By Christiano3389", "color": "#FA00E4"}
+    ]
+  }
+}
